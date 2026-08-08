@@ -22,8 +22,8 @@
     "tslib": "2.8.1"
   },
   "devDependencies": {
-    "@angular/build": "20.3.32",
-    "@angular/cli": "20.3.32",
+    "@angular/build": "20.3.33",
+    "@angular/cli": "20.3.33",
     "@angular/compiler-cli": "20.3.27",
     "prettier": "3.9.6",
     "typescript": "5.9.3"
